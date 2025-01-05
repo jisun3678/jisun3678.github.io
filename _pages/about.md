@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Jisun Hwang
-image: assets/images/about/author.jpg
+image: assets/images/about/author.png
 signature: assets/images/about/sign.png
 ---
 
