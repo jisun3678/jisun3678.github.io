@@ -111,32 +111,26 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "fpost/rga/preview_img/depth.png"
-    url: "/fpost/rga/depth_estimation/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/ev_charging/"
 
-  - image: "fpost/rga/preview_img/face.png"
-    url: "/fpost/rga/face_recognition/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/iot/"
 
-  - image: "fpost/rga/preview_img/mimic.png"
-    url: "/fpost/rga/mimic_animal/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/remote_monitoring/"
 
-  - image: "fpost/rga/preview_img/object.png"
-    url: "/fpost/rga/object_detection/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/smart_factory/"
 
-  - image: "fpost/neubility/preview_img/object.png"
-    url: "/fpost/neubility/object_detection/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/smart_grid/"
 
-  - image: "fpost/snu/preview_img/snn.png"
-    url: "/fpost/snu/snn/"
+  - image: "assets/images/portfolio/item-3.png"
+    url: "/fpost/rga/orbslam/"
 
-  - image: "fpost/snu/preview_img/snn.png"
-    url: "/fpost/snu/snn_project/"
-
-  - image: "fpost/snu/preview_img/battery.png"
-    url: "/fpost/snu/battery/"
-
-  - image: "fpost/snu/preview_img/anomaly.png"
-    url: "/fpost/snu/anomaly_detection/"
+  - image: "assets/images/portfolio/item-3.png"
+    url: "/fpost/rga/pointcloud/"
 
 # Portfolio Page
 portfolio-label:
@@ -151,68 +145,57 @@ portfolio-label:
   - { title: "LLM", type: "LLM"}
 
 portfolio-items:
-  - image: "fpost/rga/preview_img/depth.png"
-    url: "/fpost/rga/depth_estimation/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/ev_charging/"
     portfolio-type:
       - type: "Detection"
       - type: "Compression"
       - type: "Depth"
       - type: "RGA"
 
-  - image: "fpost/rga/preview_img/face.png"
-    url: "/fpost/rga/face_recognition/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/iot/"
     portfolio-type:
       - type: "RGA"
       - type: "Detection"
       - type: "Foundation"
       - type: "Compression"
 
-  - image: "fpost/rga/preview_img/mimic.png"
-    url: "/fpost/rga/mimic_animal/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/remote_monitoring/"
     portfolio-type:
       - type: "RGA"
       - type: "RL"
 
-  - image: "fpost/rga/preview_img/object.png"
-    url: "/fpost/rga/object_detection/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/smart_factory/"
     portfolio-type:
       - type: "RGA"
       - type: "Detection"
       - type: "Compression"
 
-  - image: "fpost/neubility/preview_img/object.png"
-    url: "/fpost/neubility/object_detection/"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "/fpost/jstech/smart_grid/"
     portfolio-type:
       - type: "Neubility"
       - type: "Detection"
       - type: "Compression"
       - type: "Depth"
 
-  - image: "fpost/snu/preview_img/snn.png"
-    url: "/fpost/snu_snn/"
+  - image: "assets/images/portfolio/item-3.png"
+    url: "/fpost/rga/orbslam/"
     portfolio-type:
       - type: "Compression"
       - type: "SNU"
       - type: "Detection"
 
-  - image: "fpost/snu/preview_img/snn.png"
-    url: "/fpost/snu/snn_project/"
+  - image: "assets/images/portfolio/item-3.png"
+    url: "/fpost/rga/pointcloud/"
     portfolio-type:
       - type: "SNU"
       - type: "Detection"
-
-  - image: "fpost/snu/preview_img/anomaly.png"
-    url: "/fpost/snu/anomaly_detection/"
-    portfolio-type:
-      - type: "Detection"
-      - type: "Compression"
-      - type: "SNU"
-
-  - image: "fpost/snu/preview_img/battery.png"
-    url: "/fpost/snu/battery/"
-    portfolio-type:
-      - type: "SNU"
-  
+      
+        
 #-------------------------------
 # Contact Section
 
