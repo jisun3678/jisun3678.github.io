@@ -3,7 +3,7 @@ layout: about
 title: About Me
 author: Jisun Hwang
 image: assets/images/about/author.png
-signature: assets/images/about/sign.png
+signature: assets/images/about/signature.png
 ---
 
 I began my career in engineering with a focus on embedded systems, fascinated by how microcontrollers could bring complex functionality to life in the real world. My work initially revolved around low-level firmware development, ensuring that each chip I programmed could operate seamlessly in its intended environment. This early experience instilled in me a strong foundation in creating efficient and reliable systems that bridge the gap between hardware and software.
