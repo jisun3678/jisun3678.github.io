@@ -3,7 +3,8 @@ layout: fpost
 title: "PointCloud 데이터를 활용한 3D Map 구현"
 permalink: /fpost/rga/pointcloud/
 author: Jisun Hwang
-tags:   
+tags:
+  - RGA   
   - PointCloud
   - 3D Mapping
   - ROS2

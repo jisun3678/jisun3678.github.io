@@ -129,66 +129,61 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "RGA Inc.", type: "RGA"}
-  - { title: "Neubility", type: "Neubility"}
-  - { title: "SNU", type: "SNU"}
-  - { title: "Foundation", type: "Foundation"}
-  - { title: "Detection", type: "Detection"}
-  - { title: "Depth", type: "Depth"}
-  - { title: "Compression", type: "Compression"}
-  - { title: "RL", type: "RL"}
-  - { title: "LLM", type: "LLM"}
+  - { title: "RGA Inc.", type: "RGA" }
+  - { title: "JS Tech", type: "JSTech" }
+  - { title: "3D Mapping & SLAM", type: "PointCloud" }
+  - { title: "Embedded Systems & IoT", type: "Embedded" }
+  - { title: "Energy Management & Remote Monitoring", type: "Energy" }
+  - { title: "Smart Factory & Communication Protocols", type: "SmartFactory" }
+  - { title: "EV Charging & OCPP", type: "EVCharging" }
+
 
 portfolio-items:
   - image: "assets/images/portfolio/item-2.png"
     url: "fpost/jstech/ev_charging/"
     portfolio-type:
-      - type: "Detection"
-      - type: "Compression"
-      - type: "Depth"
-      - type: "RGA"
+      - type: "JSTech"
+      - type: "Embedded"
+      - type: "EVCharging"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "fpost/jstech/iot/"
     portfolio-type:
-      - type: "RGA"
-      - type: "Detection"
-      - type: "Foundation"
-      - type: "Compression"
+      - type: "JSTech"
+      - type: "Embedded"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "fpost/jstech/remote_monitoring/"
     portfolio-type:
-      - type: "RGA"
-      - type: "RL"
+      - type: "JSTech"
+      - type: "Embedded"
+      - type: "Energy"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "fpost/jstech/smart_factory/"
     portfolio-type:
-      - type: "RGA"
-      - type: "Detection"
-      - type: "Compression"
+      - type: "JSTech"
+      - type: "Embedded"
+      - type: "SmartFactory"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "fpost/jstech/smart_grid/"
     portfolio-type:
-      - type: "Neubility"
-      - type: "Detection"
-      - type: "Compression"
-      - type: "Depth"
+      - type: "JSTech"
+      - type: "Embedded"
+      - type: "Energy"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "fpost/rga/orbslam/"
     portfolio-type:
-      - type: "Compression"
-      - type: "SNU"
-      - type: "Detection"
+      - type: "RGA"
+      - type: "PointCloud"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "fpost/rga/pointcloud/"
     portfolio-type:
-      - type: "SNU"
-      - type: "Detection"
+      - type: "RGA"
+      - type: "PointCloud"
 
 #-------------------------------
 # Blog Section

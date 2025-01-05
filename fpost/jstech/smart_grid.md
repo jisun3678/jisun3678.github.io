@@ -3,7 +3,8 @@ layout: fpost
 title: "스마트 그리드 전기차 충전 시스템"
 permalink: /fpost/js_tech/smart_grid/
 author: Jisun Hwang
-tags:   
+tags:
+  - JS tech   
   - Smart Grid
   - Electric Vehicle Charging
   - Embedded Systems

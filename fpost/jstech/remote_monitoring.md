@@ -3,7 +3,8 @@ layout: fpost
 title: "원격 검침 중앙 관제 시스템(민수)"
 permalink: /fpost/js_tech/remote_monitoring/
 author: Jisun Hwang
-tags:   
+tags:  
+  - JS tech 
   - Remote Monitoring
   - Embedded Systems
   - Communication Protocols

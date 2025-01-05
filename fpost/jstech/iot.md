@@ -3,7 +3,8 @@ layout: fpost
 title: "IoT 디지털 3상 전력량계 - 빌딩 에너지 관리 시스템"
 permalink: /fpost/js_tech/iot/
 author: Jisun Hwang
-tags:   
+tags:
+  - JS tech   
   - IoT
   - Energy Management
   - STM32

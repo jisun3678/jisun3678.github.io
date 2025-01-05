@@ -3,7 +3,8 @@ layout: fpost
 title: "스마트 팩토리 모니터링 시스템"
 permalink: /fpost/js_tech/smart_factory/
 author: Jisun Hwang
-tags:   
+tags: 
+  - JS tech  
   - Smart Factory
   - Embedded Systems
   - STM32

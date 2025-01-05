@@ -3,7 +3,8 @@ layout: fpost
 title: "ORBSLAM3과 RTAB-Map을 활용한 SLAM 시스템 구현"
 permalink: /fpost/rga/orbslam/
 author: Jisun Hwang
-tags:   
+tags:
+  - RGA   
   - SLAM
   - ROS2
   - ORBSLAM3

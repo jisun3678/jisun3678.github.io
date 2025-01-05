@@ -3,7 +3,8 @@ layout: fpost
 title: "전기차 충전 시스템 개발 - 과금형 콘센트 및 완속 충전기"
 permalink: /fpost/js_tech/ev_charging/
 author: Jisun Hwang
-tags:   
+tags:
+  - JS tech   
   - EV Charging
   - Embedded Systems
   - STM32
