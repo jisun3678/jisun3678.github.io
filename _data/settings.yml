@@ -127,10 +127,10 @@ portfolio-home-items:
     url: "/fpost/jstech/smart_grid/"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "/fpost/rga/orbslam/"
+    url: "fpost/rga/orbslam/"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "/fpost/rga/pointcloud/"
+    url: "fpost/rga/pointcloud/"
 
 # Portfolio Page
 portfolio-label:
@@ -146,7 +146,7 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/ev_charging/"
+    url: "fpost/jstech/ev_charging/"
     portfolio-type:
       - type: "Detection"
       - type: "Compression"
