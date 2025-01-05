@@ -8,13 +8,11 @@ author: Jisun Hwang
 description: this is meta description
 email: jisun3678@gmail.com
 github: https://github.com/jisun3678
-#address: 15, Maebong-gil, Seongdong-gu, Seoul, Republic of Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
   - { name: Portfolio, link: "/portfolio" }
-#  - { name: Blog, link: "/blog" }
   - { name: Contact, link: "/contact" }
 
 plugins:
@@ -32,9 +30,6 @@ hero:
 social:
   - { icon: "fa-brands fa-github", link: "https://github.com/jisun3678" }
   - { icon: "fa-brands fa-linkedin", link: "https://www.linkedin.com/in/jisun3678" }
-
-#  - { icon: "ti-dribbble", link: "#" }
-#  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
@@ -58,8 +53,8 @@ skills:
   - { name: Sensor Integration & Testing, color: "#FFDEB4", value: "85%" }
   - { name: CI/CD Pipelines, color: "#FFDEB4", value: "85%" }
 
-  - { name: C/C++ Programming, color: "#FFB4B4", value: "90%" }
-  - { name: Python (Scripting & Applications), color: "#FFB4B4", value: "85%" }
+  - { name: C/C++, color: "#FFB4B4", value: "90%" }
+  - { name: Python, color: "#FFB4B4", value: "85%" }
   - { name: Hardware Communication Protocols, color: "#FFB4B4", value: "90%" }
   - { name: Keil & IAR Embedded Workbench, color: "#FFB4B4", value: "85%" }
 #-------------------------------
@@ -112,19 +107,19 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/ev_charging/"
+    url: "fpost/jstech/ev_charging/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/iot/"
+    url: "fpost/jstech/iot/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/remote_monitoring/"
+    url: "fpost/jstech/remote_monitoring/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/smart_factory/"
+    url: "fpost/jstech/smart_factory/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/smart_grid/"
+    url: "fpost/jstech/smart_grid/"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "fpost/rga/orbslam/"
@@ -154,7 +149,7 @@ portfolio-items:
       - type: "RGA"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/iot/"
+    url: "fpost/jstech/iot/"
     portfolio-type:
       - type: "RGA"
       - type: "Detection"
@@ -162,20 +157,20 @@ portfolio-items:
       - type: "Compression"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/remote_monitoring/"
+    url: "fpost/jstech/remote_monitoring/"
     portfolio-type:
       - type: "RGA"
       - type: "RL"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/smart_factory/"
+    url: "fpost/jstech/smart_factory/"
     portfolio-type:
       - type: "RGA"
       - type: "Detection"
       - type: "Compression"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "/fpost/jstech/smart_grid/"
+    url: "fpost/jstech/smart_grid/"
     portfolio-type:
       - type: "Neubility"
       - type: "Detection"
@@ -183,14 +178,14 @@ portfolio-items:
       - type: "Depth"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "/fpost/rga/orbslam/"
+    url: "fpost/rga/orbslam/"
     portfolio-type:
       - type: "Compression"
       - type: "SNU"
       - type: "Detection"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "/fpost/rga/pointcloud/"
+    url: "fpost/rga/pointcloud/"
     portfolio-type:
       - type: "SNU"
       - type: "Detection"
