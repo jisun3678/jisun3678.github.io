@@ -1,0 +1,249 @@
+---
+#-------------------------------
+# General Site Settings
+
+title: Jisun
+logo:
+author: Jisun Hwang
+description: this is meta description
+email: jisun3678@gmail.com
+github: https://github.com/jisun3678
+#address: 15, Maebong-gil, Seongdong-gu, Seoul, Republic of Korea
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+
+menu:
+  - { name: About, link: "/about" }
+  - { name: Portfolio, link: "/portfolio" }
+#  - { name: Blog, link: "/blog" }
+  - { name: Contact, link: "/contact" }
+
+plugins:
+  - jekyll-spaceship
+  - jekyll-mathjax
+  - jekyll-sitemap
+
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hi! I’m Jisun Hwang<br> Embedded / SLAM Engineer
+
+social:
+  - { icon: "fa-brands fa-github", link: "https://github.com/jisun3678" }
+  - { icon: "fa-brands fa-linkedin", link: "https://www.linkedin.com/in/jisun3678" }
+
+#  - { icon: "ti-dribbble", link: "#" }
+#  - { icon: "ti-twitter", link: "#" }
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb: In the pursuit of improving the world, <br>I am consistently and gradually making sincere progress.
+blurb-btn-link: "/about"
+blurb-btn-name: know more
+
+
+skills-title: Skills
+skills:
+  - { name: Embedded Systems Development, color: "#B2A4FF", value: "95%" }
+  - { name: Firmware Development, color: "#B2A4FF", value: "95%" }
+  - { name: SLAM & Path Planning, color: "#B2A4FF", value: "85%" }
+  - { name: RTOS & Bare Metal Programming, color: "#B2A4FF", value: "90%" }
+
+  - { name: Docker, color: "#FFDEB4", value: "85%" }
+  - { name: ROS/ROS2 Development, color: "#FFDEB4", value: "80%" }
+  - { name: Sensor Integration & Testing, color: "#FFDEB4", value: "85%" }
+  - { name: CI/CD Pipelines, color: "#FFDEB4", value: "85%" }
+
+  - { name: C/C++ Programming, color: "#FFB4B4", value: "90%" }
+  - { name: Python (Scripting & Applications), color: "#FFB4B4", value: "85%" }
+  - { name: Hardware Communication Protocols, color: "#FFB4B4", value: "90%" }
+  - { name: Keil & IAR Embedded Workbench, color: "#FFB4B4", value: "85%" }
+
+#-------------------------------
+# Research Section
+
+research-title: Research Area
+researches:
+  - { name: Model Compression, color: "#B2A4FF", value: "80%" }
+  - { name: SLAM & Robotics, color: "#B2A4FF", value: "85%" }
+  - { name: Optimization, color: "#B2A4FF", value: "80%" }
+  - { name: Embedded Systems Design, color: "#B2A4FF", value: "90%" }
+
+  - { name: Python, color: "#FFB4B4", value: "85%" }
+  - { name: C++, color: "#FFB4B4", value: "90%" }
+  - { name: ROS/ROS2, color: "#FFB4B4", value: "80%" }
+  - { name: Docker, color: "#FFB4B4", value: "85%" }
+
+#-------------------------------
+# Experience Section
+
+experience-title: Experience
+experience:
+  - {
+      name: Senior Researcher,
+      icon: "rga.png",
+      date: "Jul 2023 – Present",
+      team: "Artificial Intelligence Division",
+      organization: "RGA Inc., Seoul, South Korea",
+    }
+  - {
+      name: Deputy General Manager,
+      icon: "jstech.png",
+      date: "Mar 2018 – Jul 2023",
+      team: "R&D and Planning Team",
+      organization: "JS Tech Co., Ltd., South Korea",
+    }
+
+#-------------------------------
+# Education Section
+
+education-title: Education
+education:
+  - {
+      name: Autonomous Driving Planning & Control Engineer Program (600 hours),
+      date: "Dec 2023 – Jun 2024",
+      organization: "Programmers Education Platform",
+    }
+  - {
+      name: LED Application & Embedded Developer Program (1,400 hours),
+      date: "Feb 2017 – Dec 2017",
+      organization: "Korea IT Education Center",
+    }
+  - {
+      name: BSc in Chemical Engineering,
+      date: "Mar 2007 – Feb 2012",
+      organization: "Kyungpook National University",
+    }
+
+
+
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image: "fpost/rga/preview_img/depth.png"
+    url: "/fpost/rga/depth_estimation/"
+
+  - image: "fpost/rga/preview_img/face.png"
+    url: "/fpost/rga/face_recognition/"
+
+  - image: "fpost/rga/preview_img/mimic.png"
+    url: "/fpost/rga/mimic_animal/"
+
+  - image: "fpost/rga/preview_img/object.png"
+    url: "/fpost/rga/object_detection/"
+
+  - image: "fpost/neubility/preview_img/object.png"
+    url: "/fpost/neubility/object_detection/"
+
+  - image: "fpost/snu/preview_img/snn.png"
+    url: "/fpost/snu/snn/"
+
+  - image: "fpost/snu/preview_img/snn.png"
+    url: "/fpost/snu/snn_project/"
+
+  - image: "fpost/snu/preview_img/battery.png"
+    url: "/fpost/snu/battery/"
+
+  - image: "fpost/snu/preview_img/anomaly.png"
+    url: "/fpost/snu/anomaly_detection/"
+
+# Portfolio Page
+portfolio-label:
+  - { title: "RGA Inc.", type: "RGA"}
+  - { title: "Neubility", type: "Neubility"}
+  - { title: "SNU", type: "SNU"}
+  - { title: "Foundation", type: "Foundation"}
+  - { title: "Detection", type: "Detection"}
+  - { title: "Depth", type: "Depth"}
+  - { title: "Compression", type: "Compression"}
+  - { title: "RL", type: "RL"}
+  - { title: "LLM", type: "LLM"}
+
+portfolio-items:
+  - image: "fpost/rga/preview_img/depth.png"
+    url: "/fpost/rga/depth_estimation/"
+    portfolio-type:
+      - type: "Detection"
+      - type: "Compression"
+      - type: "Depth"
+      - type: "RGA"
+
+  - image: "fpost/rga/preview_img/face.png"
+    url: "/fpost/rga/face_recognition/"
+    portfolio-type:
+      - type: "RGA"
+      - type: "Detection"
+      - type: "Foundation"
+      - type: "Compression"
+
+  - image: "fpost/rga/preview_img/mimic.png"
+    url: "/fpost/rga/mimic_animal/"
+    portfolio-type:
+      - type: "RGA"
+      - type: "RL"
+
+  - image: "fpost/rga/preview_img/object.png"
+    url: "/fpost/rga/object_detection/"
+    portfolio-type:
+      - type: "RGA"
+      - type: "Detection"
+      - type: "Compression"
+
+  - image: "fpost/neubility/preview_img/object.png"
+    url: "/fpost/neubility/object_detection/"
+    portfolio-type:
+      - type: "Neubility"
+      - type: "Detection"
+      - type: "Compression"
+      - type: "Depth"
+
+  - image: "fpost/snu/preview_img/snn.png"
+    url: "/fpost/snu_snn/"
+    portfolio-type:
+      - type: "Compression"
+      - type: "SNU"
+      - type: "Detection"
+
+  - image: "fpost/snu/preview_img/snn.png"
+    url: "/fpost/snu/snn_project/"
+    portfolio-type:
+      - type: "SNU"
+      - type: "Detection"
+
+  - image: "fpost/snu/preview_img/anomaly.png"
+    url: "/fpost/snu/anomaly_detection/"
+    portfolio-type:
+      - type: "Detection"
+      - type: "Compression"
+      - type: "SNU"
+
+  - image: "fpost/snu/preview_img/battery.png"
+    url: "/fpost/snu/battery/"
+    portfolio-type:
+      - type: "SNU"
+
+  
+#-------------------------------
+# Blog Section
+blog-tags:
+  - { title: "Model Compression", type: "model compression" }
+  - { title: "Object detection", type: "object detection" }
+  - { title: "Segmentation", type: "segmentation" }
+  - { title: "Diffusion", type: "diffusion" }
+  - { title: "GAN", type: "GAN"}
+  - { title: "Autonomy-driving", type: "Autonomy-driving"}
+  - { title: "Dev course", type: "dev"}
+  - { title: "Coding", type: "coding"}
+
+  
+#-------------------------------
+# Contact Section
+
+# contact-title: Contact
+contact-email: jisun3678@gmail.com

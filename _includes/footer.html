@@ -1,0 +1,29 @@
+<!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h4 class="text-light"><strong>Email</strong></h4>
+          <p class="text-white paragraph-lgg font-secondary">{{ site.data.settings.email }}</p>
+        </div>
+        <div class="col-md-4">
+          <h4 class="text-light"><strong>Github</strong></h4>
+          <p class="text-white paragraph-lgg font-secondary">{{ site.data.settings.github }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">{{site.data.settings.copyright | markdownify}}</p>
+  </div>
+</footer>
+<!-- /footer -->
+
+<!-- JS Plugins -->
+{% for js in site.data.plugins.js %}
+<script src="{{ js | relative_url }}"></script>
+{% endfor %}
+
+<!-- Main Script -->
+<script src="{{ '/assets/js/script.js' | relative_url }}"></script>
