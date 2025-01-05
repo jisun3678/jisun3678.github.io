@@ -44,6 +44,7 @@ blurb: In the pursuit of improving the world, <br>I am consistently and graduall
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
+#-------------------------------
 
 skills-title: Skills
 skills:
@@ -61,22 +62,6 @@ skills:
   - { name: Python (Scripting & Applications), color: "#FFB4B4", value: "85%" }
   - { name: Hardware Communication Protocols, color: "#FFB4B4", value: "90%" }
   - { name: Keil & IAR Embedded Workbench, color: "#FFB4B4", value: "85%" }
-
-#-------------------------------
-# Research Section
-
-research-title: Research Area
-researches:
-  - { name: Model Compression, color: "#B2A4FF", value: "80%" }
-  - { name: SLAM & Robotics, color: "#B2A4FF", value: "85%" }
-  - { name: Optimization, color: "#B2A4FF", value: "80%" }
-  - { name: Embedded Systems Design, color: "#B2A4FF", value: "90%" }
-
-  - { name: Python, color: "#FFB4B4", value: "85%" }
-  - { name: C++, color: "#FFB4B4", value: "90%" }
-  - { name: ROS/ROS2, color: "#FFB4B4", value: "80%" }
-  - { name: Docker, color: "#FFB4B4", value: "85%" }
-
 #-------------------------------
 # Experience Section
 
@@ -227,20 +212,6 @@ portfolio-items:
     url: "/fpost/snu/battery/"
     portfolio-type:
       - type: "SNU"
-
-  
-#-------------------------------
-# Blog Section
-blog-tags:
-  - { title: "Model Compression", type: "model compression" }
-  - { title: "Object detection", type: "object detection" }
-  - { title: "Segmentation", type: "segmentation" }
-  - { title: "Diffusion", type: "diffusion" }
-  - { title: "GAN", type: "GAN"}
-  - { title: "Autonomy-driving", type: "Autonomy-driving"}
-  - { title: "Dev course", type: "dev"}
-  - { title: "Coding", type: "coding"}
-
   
 #-------------------------------
 # Contact Section
