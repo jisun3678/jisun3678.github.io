@@ -24,7 +24,7 @@ tags:
 
 <figure>
   <div style="text-align:center">
-    <img src="/fpost/js_tech/iot_3phase_meter/img1.png" alt="IoT 3상 전력량계 개요" style="width:80%;">
+    <img src="/fpost/js_tech/img/iot/fig1.png" alt="IoT 3상 전력량계 개요" style="width:80%;">
   </div>
   <figcaption style="text-align:center">Fig 1. IoT 디지털 3상 전력량계 시스템 개요</figcaption>
 </figure>

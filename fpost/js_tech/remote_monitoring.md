@@ -21,7 +21,7 @@ tags:
 
 <figure>
   <div style="text-align:center">
-    <img src="/fpost/js_tech/remote_monitoring/img1.png" alt="Remote Monitoring System Overview" style="width:80%;">
+    <img src="/fpost/js_tech/img/remote_monitoring/fig1.png" alt="Remote Monitoring System Overview" style="width:80%;">
   </div>
   <figcaption style="text-align:center">Fig 1. 원격 검침 중앙 관제 시스템 개요</figcaption>
 </figure>

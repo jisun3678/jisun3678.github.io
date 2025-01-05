@@ -28,7 +28,7 @@ tags:
 
 <figure>
   <div style="text-align:center">
-    <img src="/fpost/js_tech/smart_grid_ev_charging/img1.png" alt="Smart Grid EV Charging System Overview" style="width:80%;">
+    <img src="/fpost/js_tech/img/smart_grid/fig1.png" alt="Smart Grid EV Charging System Overview" style="width:80%;">
   </div>
   <figcaption style="text-align:center">Fig 1. 스마트 그리드 전기차 충전 시스템 개요</figcaption>
 </figure>

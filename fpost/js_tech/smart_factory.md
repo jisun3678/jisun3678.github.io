@@ -24,7 +24,7 @@ tags:
 
 <figure>
   <div style="text-align:center">
-    <img src="/fpost/js_tech/smart_factory_monitoring/img1.png" alt="Smart Factory Monitoring System Overview" style="width:80%;">
+    <img src="/fpost/js_tech/img/smart_factory/fig1.png" alt="Smart Factory Monitoring System Overview" style="width:80%;">
   </div>
   <figcaption style="text-align:center">Fig 1. 스마트 팩토리 모니터링 시스템 개요</figcaption>
 </figure>

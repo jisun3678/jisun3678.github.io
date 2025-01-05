@@ -107,19 +107,19 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/ev_charging/"
+    url: "fpost/js_tech/ev_charging/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/iot/"
+    url: "fpost/js_tech/iot/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/remote_monitoring/"
+    url: "fpost/js_tech/remote_monitoring/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/smart_factory/"
+    url: "fpost/js_tech/smart_factory/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/smart_grid/"
+    url: "fpost/js_tech/smart_grid/"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "fpost/rga/orbslam/"
@@ -140,7 +140,7 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/ev_charging/"
+    url: "fpost/js_tech/ev_charging/"
     portfolio-type:
       - type: "JSTech"
       - type: "Embedded"
@@ -153,21 +153,21 @@ portfolio-items:
       - type: "Embedded"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/remote_monitoring/"
+    url: "fpost/js_tech/remote_monitoring/"
     portfolio-type:
       - type: "JSTech"
       - type: "Embedded"
       - type: "Energy"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/smart_factory/"
+    url: "fpost/js_tech/smart_factory/"
     portfolio-type:
       - type: "JSTech"
       - type: "Embedded"
       - type: "SmartFactory"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/smart_grid/"
+    url: "fpost/js_tech/smart_grid/"
     portfolio-type:
       - type: "JSTech"
       - type: "Embedded"
