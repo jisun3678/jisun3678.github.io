@@ -115,16 +115,16 @@ portfolio-home-items:
   - image: "fpost/js_tech/preview/remote_monitoring.png"
     url: "fpost/js_tech/remote_monitoring/"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/preview/smart_factory.png"
     url: "fpost/js_tech/smart_factory/"
 
   - image: "fpost/js_tech/preview/smart_grid.png"
     url: "fpost/js_tech/smart_grid/"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "fpost/rga/preview/orbslam.png"
     url: "fpost/rga/orbslam/"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "fpost/rga/preview/pointcloud.png"
     url: "fpost/rga/pointcloud/"
 
 # Portfolio Page
@@ -159,7 +159,7 @@ portfolio-items:
       - type: "Embedded"
       - type: "Energy"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/preview/smart_factory.png"
     url: "fpost/js_tech/smart_factory/"
     portfolio-type:
       - type: "JSTech"
@@ -173,13 +173,13 @@ portfolio-items:
       - type: "Embedded"
       - type: "Energy"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "fpost/rga/preview/orbslam.png"
     url: "fpost/rga/orbslam/"
     portfolio-type:
       - type: "RGA"
       - type: "PointCloud"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "fpost/rga/preview/pointcloud.png"
     url: "fpost/rga/pointcloud/"
     portfolio-type:
       - type: "RGA"
