@@ -147,7 +147,7 @@ portfolio-items:
       - type: "EVCharging"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "fpost/jstech/iot/"
+    url: "fpost/js_tech/iot/"
     portfolio-type:
       - type: "JSTech"
       - type: "Embedded"
