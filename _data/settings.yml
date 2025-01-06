@@ -106,19 +106,19 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/ev_charging.png"
     url: "fpost/js_tech/ev_charging/"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/iot.png"
     url: "fpost/js_tech/iot/"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/remote_monitoring.png"
     url: "fpost/js_tech/remote_monitoring/"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "fpost/js_tech/smart_factory/"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/smart_grid.png"
     url: "fpost/js_tech/smart_grid/"
 
   - image: "assets/images/portfolio/item-3.png"
@@ -139,20 +139,20 @@ portfolio-label:
 
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/ev_charging.png"
     url: "fpost/js_tech/ev_charging/"
     portfolio-type:
       - type: "JSTech"
       - type: "Embedded"
       - type: "EVCharging"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/iot.png"
     url: "fpost/js_tech/iot/"
     portfolio-type:
       - type: "JSTech"
       - type: "Embedded"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/remote_monitoring.png"
     url: "fpost/js_tech/remote_monitoring/"
     portfolio-type:
       - type: "JSTech"
@@ -166,7 +166,7 @@ portfolio-items:
       - type: "Embedded"
       - type: "SmartFactory"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "fpost/js_tech/smart_grid.png"
     url: "fpost/js_tech/smart_grid/"
     portfolio-type:
       - type: "JSTech"
