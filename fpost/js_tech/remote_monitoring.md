@@ -11,6 +11,8 @@ tags:
   - Energy Management
   - Firmware Development
   - RS485
+  - GreenFlow
+  - 신한정밀
 ---
 
 ## • 프로젝트 개요
@@ -74,7 +76,6 @@ tags:
   <div style="text-align:center">
     <img src="/fpost/js_tech/remote_monitoring/img2.png" alt="System Workflow" style="width:90%;">
   </div>
-  <figcaption style="text-align:center">Fig 2. 원격 검침 시스템 통신 및 데이터 흐름</figcaption>
 </figure>
 
 ---

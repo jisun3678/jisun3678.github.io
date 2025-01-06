@@ -11,6 +11,7 @@ tags:
   - MQTT
   - Cat.M1 LTE
   - Embedded Systems
+  - SICOMS
 ---
 
 ## • 프로젝트 개요

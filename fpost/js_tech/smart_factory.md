@@ -11,6 +11,7 @@ tags:
   - Bluetooth
   - WiFi
   - Real-Time Monitoring
+  - 주식회사영흥
 ---
 
 ## • 프로젝트 개요
