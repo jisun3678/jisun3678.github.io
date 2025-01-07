@@ -32,31 +32,13 @@ tags:
   <div style="text-align:center">
     <img src="/fpost/js_tech/img/ev_charging/fig1.png" alt="EV Charging System Overview" style="width:80%;">
   </div>
-  <figcaption style="text-align:center">Fig 1. 전기차 충전 시스템 개요</figcaption>
 </figure>
-
 
 <figure>
   <div style="text-align:center">
     <img src="/fpost/js_tech/img/ev_charging/fig2.png" alt="EV Charging System Overview" style="width:80%;">
   </div>
-  <figcaption style="text-align:center">Fig 2. 전기차 충전 시스템 개요</figcaption>
-</figure>
-
-
-<figure>
-  <div style="text-align:center">
-    <img src="/fpost/js_tech/img/ev_charging/fig3.png" alt="EV Charging System Overview" style="width:80%;">
-  </div>
-  <figcaption style="text-align:center">Fig 3. 전기차 충전 시스템 개요</figcaption>
-</figure>
-
-
-<figure>
-  <div style="text-align:center">
-    <img src="/fpost/js_tech/img/ev_charging/fig4.png" alt="EV Charging System Overview" style="width:80%;">
-  </div>
-  <figcaption style="text-align:center">Fig 4. 전기차 충전 시스템 개요</figcaption>
+  <figcaption style="text-align:center">Fig 1. 전기차 충전 시스템 개요</figcaption>
 </figure>
 
 ---
