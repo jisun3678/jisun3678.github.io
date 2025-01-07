@@ -72,14 +72,6 @@ tags:
 
 ---
 
-<figure>
-  <div style="text-align:center">
-    <img src="/fpost/js_tech/remote_monitoring/img2.png" alt="System Workflow" style="width:90%;">
-  </div>
-</figure>
-
----
-
 ### 4. 평가 및 경험
 - 통신 프로토콜 설계 및 구현 능력 강화.  
 - 데이터 신뢰성을 판단하는 알고리즘 설계 및 문제 해결 역량 향상.  
@@ -88,4 +80,26 @@ tags:
 ---
 
 ### 5. 결론
-이 프로젝트를 통해 다양한 통신 프로토콜 구현 및 데이터 신뢰성 강화의 중요성을 체감했으며, 이를 바탕으로 제품의 상용화와 안정성 확보에 기여하였습니다. 이러한 경험은 에너지 관리 시스템과 임베디드 기술이 융합된 실제 환경에서의 솔루션 제공 역량을 한층 더 강화할 수 있는 계기가 되었습니다.  
+이 프로젝트를 통해 다양한 통신 프로토콜 구현 및 데이터 신뢰성 강화의 중요성을 체감했으며, 이를 바탕으로 제품의 상용화와 안정성 확보에 기여하였습니다. 이러한 경험은 에너지 관리 시스템과 임베디드 기술이 융합된 실제 환경에서의 솔루션 제공 역량을 한층 더 강화할 수 있는 계기가 되었습니다. 
+
+---
+
+### 6. Mapping Test 결과
+
+<figure>
+  <div style="text-align:center">
+    <img src="/fpost/js_tech/img/remote_monitoring/orb_1.gif" alt="Mapping Test Results" style="width:80%;">
+  </div>
+  <figcaption style="text-align:center">
+    실내 테스트 결과: 좌측은 ORB-SLAM3, 우측 상단은 센서 영상과 특징점, 우측 하단은 RTAB-Map.
+  </figcaption>
+</figure>
+
+<figure>
+  <div style="text-align:center">
+    <img src="/fpost/js_tech/img/remote_monitoring/orb_2.gif" alt="Mapping Test Results" style="width:80%;">
+  </div>
+  <figcaption style="text-align:center">
+    실외 테스트 결과: 좌측은 ORB-SLAM3, 우측 상단은 센서 영상과 특징점.
+  </figcaption>
+</figure>

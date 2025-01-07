@@ -105,3 +105,25 @@ tags:
 
 ### 5. 결론
 이 프로젝트는 Docker와 ORIN 플랫폼을 활용한 SLAM 환경 표준화와 성능 최적화를 목표로 진행되었습니다. ORBSLAM3과 RTAB-Map의 성능을 체계적으로 비교하고, 각 시스템의 장단점을 파악하여 SLAM 기술 개선에 기여했습니다. 이러한 성과는 대규모 환경에서의 실시간 지도 생성 및 추적 기술의 발전에 중요한 역할을 할 것입니다.
+
+---
+
+### 6. Mapping Test 결과
+
+<figure>
+  <div style="text-align:center">
+    <img src="/fpost/rga/img/orbslam/orb_1.gif" alt="Mapping Test Results" style="width:80%;">
+  </div>
+  <figcaption style="text-align:center">
+    실내 테스트 결과: 좌측은 ORB-SLAM3, 우측 상단은 센서 영상과 특징점, 우측 하단은 RTAB-Map.
+  </figcaption>
+</figure>
+
+<figure>
+  <div style="text-align:center">
+    <img src="/fpost/rga/img/orbslam/orb_2.gif" alt="Mapping Test Results" style="width:80%;">
+  </div>
+  <figcaption style="text-align:center">
+    실외 테스트 결과: 좌측은 ORB-SLAM3, 우측 상단은 센서 영상과 특징점.
+  </figcaption>
+</figure>
