@@ -28,9 +28,9 @@ tags:
 
 <figure>
   <div style="text-align:center">
-    <img src="/fpost/rga/slam_system_implementation/img1.png" alt="SLAM System Implementation" style="width:80%;">
+    <img src="/fpost/rga/img/orbslam.png" alt="SLAM System Implementation" style="width:80%;">
   </div>
-  <figcaption style="text-align:center">Fig 1. ORBSLAM3과 RTAB-Map 성능 비교 실험 개요</figcaption>
+  <figcaption style="text-align:center">Fig 1. ORBSLAM pipeline</figcaption>
 </figure>
 
 ---
@@ -108,7 +108,7 @@ tags:
 
 ---
 
-### 6. Mapping Test 결과
+### 6. Octomap 실행 결과
 
 <figure>
   <div style="text-align:center">

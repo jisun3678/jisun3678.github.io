@@ -25,15 +25,6 @@ tags:
 
 ---
 
-<figure>
-  <div style="text-align:center">
-    <img src="/fpost/rga/pointcloud_3d_mapping/img1.png" alt="3D Mapping System Overview" style="width:80%;">
-  </div>
-  <figcaption style="text-align:center">Fig 1. Velodyne 및 ZED2 기반 PointCloud 데이터를 활용한 3D Map</figcaption>
-</figure>
-
----
-
 ### 1. 주요 기능 및 기술 구현
 
 #### 1.1 Docker 환경 구성
