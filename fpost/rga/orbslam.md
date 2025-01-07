@@ -28,7 +28,7 @@ tags:
 
 <figure>
   <div style="text-align:center">
-    <img src="/fpost/rga/img/orbslam.png" alt="SLAM System Implementation" style="width:80%;">
+    <img src="/fpost/rga/img/orbslam/orbslam.png" alt="SLAM System Implementation" style="width:80%;">
   </div>
   <figcaption style="text-align:center">Fig 1. ORBSLAM pipeline</figcaption>
 </figure>
@@ -115,7 +115,7 @@ tags:
     <img src="/fpost/rga/img/orbslam/orb_1.gif" alt="Mapping Test Results" style="width:80%;">
   </div>
   <figcaption style="text-align:center">
-    실내 테스트 결과: 좌측은 ORB-SLAM3, 우측 상단은 센서 영상과 특징점, 우측 하단은 RTAB-Map.
+    Fig 2. 실내 테스트 결과: 좌측은 ORB-SLAM3, 우측 상단은 센서 영상과 특징점, 우측 하단은 RTAB-Map.
   </figcaption>
 </figure>
 
@@ -124,6 +124,6 @@ tags:
     <img src="/fpost/rga/img/orbslam/orb_2.gif" alt="Mapping Test Results" style="width:80%;">
   </div>
   <figcaption style="text-align:center">
-    실외 테스트 결과: 좌측은 ORB-SLAM3, 우측 상단은 센서 영상과 특징점.
+    Fig 3. 실외 테스트 결과: 좌측은 ORB-SLAM3, 우측 상단은 센서 영상과 특징점.
   </figcaption>
 </figure>

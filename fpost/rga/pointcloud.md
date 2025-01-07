@@ -102,6 +102,6 @@ PointCloud 데이터를 활용한 3D Mapping 프로젝트는 Velodyne 및 ZED2 �
     <img src="/fpost/rga/img/pointcloud/octomap_3.gif" alt="Octomap Result 3" style="width:30%;">
   </div>
   <figcaption style="text-align:center; margin-top: 10px;">
-    Fig 3. Octomap 실행 결과: 실시간 포인트 클라우드 기반 3D 맵 생성 및 다양한 시나리오에 따른 매핑 결과.
+    Fig 1. Octomap 실행 결과: 실시간 포인트 클라우드 기반 3D 맵 생성 및 다양한 시나리오에 따른 매핑 결과.
   </figcaption>
 </figure>
