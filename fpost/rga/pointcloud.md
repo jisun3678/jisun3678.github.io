@@ -102,3 +102,15 @@ tags:
 
 ### 5. 결론
 PointCloud 데이터를 활용한 3D Mapping 프로젝트는 Velodyne 및 ZED2 카메라 데이터를 이용한 다양한 실험을 통해 3D Map 생성의 가능성과 한계를 분석했습니다. 이를 통해 SLAM 성능 개선 방향을 제안하였으며, 특히 Odometry 데이터의 한계점을 극복하기 위한 새로운 접근법으로 ORBSLAM3와의 데이터 결합 아이디어를 도출하였습니다. 이러한 결과는 대규모 환경에서의 정밀한 지도 생성 및 데이터 처리의 기반이 될 것입니다.
+
+
+<figure>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/fpost/rga/img/pointcloud/octomap_1.gif" alt="Octomap Result 1" style="width:30%;">
+    <img src="/fpost/rga/img/pointcloud/octomap_2.gif" alt="Octomap Result 2" style="width:30%;">
+    <img src="/fpost/rga/img/pointcloud/octomap_3.gif" alt="Octomap Result 3" style="width:30%;">
+  </div>
+  <figcaption style="text-align:center; margin-top: 10px;">
+    Fig 3. Octomap 실행 결과: 실시간 포인트 클라우드 기반 3D 맵 생성 및 다양한 시나리오에 따른 매핑 결과.
+  </figcaption>
+</figure>
