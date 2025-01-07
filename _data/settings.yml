@@ -13,6 +13,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 menu:
   - { name: About, link: "/about" }
   - { name: Portfolio, link: "/portfolio" }
+  - { name: Post, link: "/post"}
   - { name: Contact, link: "/contact" }
 
 plugins:
