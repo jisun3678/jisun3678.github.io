@@ -117,7 +117,7 @@ tags:
 - **MCU**: AT32, ESP32, STM32  
 - **통신**: UART, SPI, Ethernet(TCP/IP), WiFi, NFC, RFID, PLC  
 - **저장 및 제어**: EEPROM, PWM DMA, LED, Relay  
-- **프로토콜**: OCPP 1.6(core), IEC 61851, SAE J1772, ISO 15118  
+- **규격 및 프로토콜**: OCPP 1.6(core), IEC 61851, SAE J1772, ISO 15118  
 - **운영체제**: Bare Metal, FreeRTOS  
 
 ---
